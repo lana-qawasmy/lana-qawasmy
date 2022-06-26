@@ -2,7 +2,7 @@
 <h4>A passionate computer Engineer from Palestine</h4>
 
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png)
+![lana Profile LinkedIn Banner  (1)](https://raw.githubusercontent.com/lana-qawasmy/lana-qawasmy/main/White%20Clean%20Minimalist%20LinkedIn%20Banner.png)
 
 ## 👨🏻‍💻 &nbsp;About Me
 ## I'm a Computer Engineer !!
