@@ -9,12 +9,12 @@
 
 <img alt="Night Coding"  width="250" height="230"  src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right" />
 
-- 🌱 I'm currently studying 🙃
+
 - 👯 I'm looking to collaborate with other content creators and developers
-- 🥅 2022 Goals:learn more programming languages
+- 🥅 2023 Goals: learn more programming languages
 - 👨‍💻 All of my projects are available at [https://github.com/lana-qawasmy](https://github.com/lana-qawasmy)
 - ⚡ Fun fact **I have a passion in photography and designing**
-- ✉️ &nbsp;You can shoot me an email at lanaqawasmy7@gmail.com! I'll try to respond as soon as I can
+- ✉️ &nbsp; You can send an email to me at lanaqawasmy7@gmail.com! I'll try to respond as soon as I can
 
 <br>
 
